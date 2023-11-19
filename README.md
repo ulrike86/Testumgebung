@@ -1,3 +1,3 @@
 # Testumgebung
 
-Ulrike ist super
+Ulrike ist super und mag Bananenpfannkuchen.
